@@ -4,10 +4,8 @@ import { Route,Switch } from 'react-router-dom';
 import Student from './Components/studentlist';
 import Edit from './Components/editstudent';
 import Addstudent from './Components/addstudent';
-import data from './Basic/data';
 import Teachers from './Components/teacherlist.js'
 import Dashboard from './Components/Dashboard';
-import teacher from './Basic/teachers';
 import Addteachers from './Components/addteachers';
 import EditTeachers from './Components/editteachers';
 

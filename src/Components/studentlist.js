@@ -2,8 +2,6 @@ import React,{useState} from "react";
 import Base from "../Basic/base";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import data from "../Basic/data";
-import Editstudent from "./editstudent";
 import {useHistory} from 'react-router-dom'
 
 
